@@ -1,6 +1,6 @@
 # TurboCore Event System
 
-Fast, lightweight event system for Minecraft clients.
+Fast, lightweight event system.
 
 ## Quick Start
 
